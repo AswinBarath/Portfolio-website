@@ -1,5 +1,7 @@
 # Portfolio website ⚡️
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3898ed66-ee9f-477b-bb65-876ad9225f61/deploy-status)](https://app.netlify.com/sites/aswin-barath-portfolio/deploys)
+
 <!-- <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="portfolio-website" width="600px" />
   <br>
@@ -16,8 +18,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-<!-- To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)** -->
+Click to view the live portfolio, **[click here](https://aswin-barath-portfolio.netlify.app/)**
 
 ---
 
