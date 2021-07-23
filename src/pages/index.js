@@ -19,13 +19,14 @@ export default () => {
           content={description || 'Aswin Barath Personal Portfolio Website'}
         />
         <meta property="og:title" content="Aswin Portfolio website" />
-        <meta
-          property="og:url"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
-        />
+        <meta property="og:url" content="https://aswinbarath.me/" />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.png"
+        />
+        <meta
+          property="og:video"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.mp4"
         />
       </Helmet>
       <App />
