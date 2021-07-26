@@ -23,7 +23,7 @@ export default () => {
         <meta property="og:url" content="https://aswinbarath.me/" />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.png"
         />
         <meta
           property="og:video"
@@ -31,7 +31,7 @@ export default () => {
         />
         <meta
           name="twitter:card"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.png"
         />
 
         {/* <!--  Non-Essential, But Recommended --> */}

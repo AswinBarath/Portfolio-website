@@ -18,7 +18,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-Click to view the live portfolio, **[click here](https://aswin-barath-portfolio.netlify.app/)**
+Click to view the live portfolio, **[click here](https://aswinbarath.me/)**
 
 ---
 
