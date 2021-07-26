@@ -37,7 +37,7 @@ export default () => {
         <meta property="og:image:alt" content="Aswin Barath - Portfolio Website" />
         <meta
           property="og:video"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.mp4"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
         />
         <meta
           name="twitter:card"
