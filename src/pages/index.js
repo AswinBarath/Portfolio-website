@@ -36,10 +36,6 @@ export default () => {
         <meta property="og:image:height" content="1080" />
         <meta property="og:image:alt" content="Aswin Barath - Portfolio Website" />
         <meta
-          property="og:video"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
-        />
-        <meta
           name="twitter:card"
           content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website-sq.jpg"
         />
