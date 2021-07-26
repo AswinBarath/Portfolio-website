@@ -14,20 +14,33 @@ export default () => {
         <meta charSet="utf-8" />
         <title>{title || 'Aswin Portfolio website'}</title>
         <html lang={lang || 'en'} />
+        {/* <!--  Essential META Tags --> */}
+        <meta property="og:title" content="Aswin Portfolio website" />
         <meta
           name="description"
-          content={description || 'Aswin Barath Personal Portfolio Website'}
+          content={description || 'Aswin Barath - Personal Portfolio Website'}
         />
-        <meta property="og:title" content="Aswin Portfolio website" />
         <meta property="og:url" content="https://aswinbarath.me/" />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.png"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
         />
         <meta
           property="og:video"
           content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.mp4"
         />
+        <meta
+          name="twitter:card"
+          content="https://raw.githubusercontent.com/AswinBarath/Portfolio-website/main/src/images/portfolio-website.gif"
+        />
+
+        {/* <!--  Non-Essential, But Recommended --> */}
+        <meta property="og:site_name" content="Blogfolio" />
+        <meta name="twitter:image:alt" content="Blogfolio" />
+
+        {/* <!--  Non-Essential, But Required for Analytics --> */}
+        <meta property="fb:app_id" content="100011683902531" />
+        <meta name="twitter:site" content="@AswinBarath2" />
       </Helmet>
       <App />
     </>

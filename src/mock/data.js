@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Software Engineer specializing in Web Development',
   paragraphTwo: 'Driven developer dedicated to building responsive web applications',
   paragraphThree: 'Committed to full-stack web development',
-  resume: 'https://drive.google.com/file/d/1V-syoavrL5xxuAh4YuCy-AaegG1G5s1S/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1sJWJKZFDUZAhJeYyVD-nWBq8OFVeJYq6/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
